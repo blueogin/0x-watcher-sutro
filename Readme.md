@@ -1,7 +1,5 @@
 # Eye of Sutro: Ethereum State Watcher
 
-[![docs.rs](https://docs.rs/sutro/badge.svg)](https://docs.rs/sutro)
-
 <img src="eye_of_sutro.jpg" width="33%" align="right" style="padding-left: 20px"></img>
 
 **Idea**
