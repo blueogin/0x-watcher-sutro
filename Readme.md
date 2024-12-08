@@ -1,10 +1,6 @@
 # Eye of Sutro: Ethereum State Watcher
 
-![lines of code](https://img.shields.io/tokei/lines/github/0xProject/sutro)
 [![docs.rs](https://docs.rs/sutro/badge.svg)](https://docs.rs/sutro)
-[![dependency status](https://deps.rs/repo/github/0xProject/sutro/status.svg)](https://deps.rs/repo/github/0xProject/sutro)
-[![codecov](https://img.shields.io/codecov/c/github/0xProject/sutro)](https://codecov.io/gh/0xProject/sutro)
-[![build](https://img.shields.io/github/workflow/status/0xProject/sutro/build)](https://github.com/0xProject/sutro/actions?query=workflow%3Abuild)
 
 <img src="eye_of_sutro.jpg" width="33%" align="right" style="padding-left: 20px"></img>
 
@@ -21,8 +17,6 @@ We are not interested in accurately computing gas consumption of transactions or
 ### Order Routing
 
 ### Mesh Order Watcher 2.0
-
-### Periscope chain data collector
 
 ### Fast test runner
 
